@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thankzzz/testcpn.git/static/css/main.f9140324.chunk.css",
+    "main.js": "/thankzzz/testcpn.git/static/js/main.38440705.chunk.js",
+    "main.js.map": "/thankzzz/testcpn.git/static/js/main.38440705.chunk.js.map",
+    "runtime-main.js": "/thankzzz/testcpn.git/static/js/runtime-main.21663a82.js",
+    "runtime-main.js.map": "/thankzzz/testcpn.git/static/js/runtime-main.21663a82.js.map",
+    "static/js/2.d2a5b48f.chunk.js": "/thankzzz/testcpn.git/static/js/2.d2a5b48f.chunk.js",
+    "static/js/2.d2a5b48f.chunk.js.map": "/thankzzz/testcpn.git/static/js/2.d2a5b48f.chunk.js.map",
+    "index.html": "/thankzzz/testcpn.git/index.html",
+    "precache-manifest.226d5edfc1802b4a68469ca4ca9825b9.js": "/thankzzz/testcpn.git/precache-manifest.226d5edfc1802b4a68469ca4ca9825b9.js",
+    "service-worker.js": "/thankzzz/testcpn.git/service-worker.js",
+    "static/css/main.f9140324.chunk.css.map": "/thankzzz/testcpn.git/static/css/main.f9140324.chunk.css.map",
+    "static/js/2.d2a5b48f.chunk.js.LICENSE.txt": "/thankzzz/testcpn.git/static/js/2.d2a5b48f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21663a82.js",
+    "static/js/2.d2a5b48f.chunk.js",
+    "static/css/main.f9140324.chunk.css",
+    "static/js/main.38440705.chunk.js"
+  ]
+}
